@@ -11,7 +11,7 @@ This is a simple REST API built using Node.js and Express.js. It demonstrates fu
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/express-api.git
+git clone https://github.com/charming0524/RESTAPI.git
 cd express-api
 npm install
 ```
